@@ -1,11 +1,8 @@
 # FreedomCode Website
 
-### [🚀 View Demo](https://freedomcodes-c6d07.web.app/)
+![image](https://github.com/TheFreedomCodes/FreedomCodeSite/assets/141323195/ce0d7deb-0f88-476f-bb52-880b04ba7518)
 
-[![playbootstrap-demo](https://uideck.com/wp-content/uploads/2021/09/play-bootstrap.jpg)](https://preview.uideck.com/items/play-bootstrap/)
-
-
-1. Fork the "play-bootstrap" repository by clicking the "Fork" button on the top right of the GitHub page. This will create a copy of the repository under your GitHub account.
+1. Fork the "FreedomCodeSite" repository by clicking the "Fork" button on the top right of the GitHub page. This will create a copy of the repository under your GitHub account.
 
 2. Clone the forked repository to your local machine using Git. You can do this by running the following command in your terminal or command prompt:
 
@@ -34,7 +31,7 @@ git commit -m "Update website name to FreedomCode"
 git push origin main
 ```
 
-8. Finally, go to your forked repository on GitHub and create a pull request to merge your changes into the original repository "play-bootstrap."
+8. Finally, go to your forked repository on GitHub and create a pull request to merge your changes into the original repository.
 
 The maintainers of the "FreedomCode" repository will review your changes and decide whether to merge them into the main repository.
 
