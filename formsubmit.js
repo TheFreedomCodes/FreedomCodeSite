@@ -3,8 +3,8 @@ const apiEndpoint = 'https://your-api-endpoint.com/submit';
 
 // Define the data you want to send to the API in JSON format
 const formData = {
-  name: 'John Doe',
-  email: 'johndoe@example.com',
+  name: 'FreedomCode',
+  email: 'freedomcode@gmail.com',
   message: 'Hello, FormSubmit API!'
 };
 
